@@ -7,8 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-FastAPI-3776AB?logo=python)](https://fastapi.tiangolo.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 
-ایران‌مانیتور یک پلتفرم جامع پایش لحظه‌ای ایران است که الهام گرفته از پروژه [worldmonitor](https://github.com/koala73/worldmonitor) است و به‌جای تمرکز بر کل جهان، روی **نقشه و داده‌های ایران** متمرکز شده.
-
 ---
 
 ## 📑 فهرست
