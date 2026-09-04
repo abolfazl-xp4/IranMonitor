@@ -92,6 +92,47 @@
 
 ---
 
+
+---
+
+## 📸 پیش‌نمایش پروژه
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/1_Home.png" width="300" alt="صفحه اصلی" /><br />
+      <b>🏠 صفحه اصلی</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/2_Market.png" width="300" alt="بازار" /><br />
+      <b>📊 بازار</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/3_Earthquake.png" width="300" alt="زلزله" /><br />
+      <b>🌍 زلزله</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/4_Weather.png" width="300" alt="آب و هوا" /><br />
+      <b>☀️ آب و هوا</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/5_News.png" width="300" alt="اخبار" /><br />
+      <b>📰 اخبار</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/6_AgenticAI.png" width="300" alt="هوش مصنوعی" /><br />
+      <b>🤖 هوش مصنوعی</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+
 ## 🏗️ معماری پروژه
 
 پروژه از **دو سرویس** تشکیل شده که کنار هم کار می‌کنند:
